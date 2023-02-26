@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DATA ANALYST"
+title                    : "SQL MINI PROJECTS"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -126,10 +126,10 @@ I am eager to keep learning in a challenging, fast-paced environment. "
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
+      # url: "https://github.com/bagdatsarikas"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://www.linkedin.com/in/bagdatsarikas/"
 
 # Site Footer
 footer:
